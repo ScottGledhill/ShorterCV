@@ -36,15 +36,8 @@ I currently coach potential Makers Academy candidates through the interview proc
   + Game Theory principles
   + Advanced problem solving
   + Calm decision making under pressure
-
-## Education
-
-#### Nottingham Trent (2007-2010)
-
-- Business Studies, specialising in accounting
-- Captain of squash team
-
-#### Squash (2000-2006)
+  
+  #### Squash (2000-2006)
 
 + Lottery funded Junior squash player on TASS (Talented Athlete Scholarship Scheme)
 + Top 3 in England u15s
@@ -57,6 +50,13 @@ I currently coach potential Makers Academy candidates through the interview proc
   + Discipline
   + Calm decision making under pressure
   + Working towards goals 
+
+## Education
+
+#### Nottingham Trent (2007-2010)
+
+- Business Studies, specialising in accounting
+- Captain of squash team
 
 ## Projects
 
