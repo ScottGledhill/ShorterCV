@@ -4,7 +4,12 @@
 
 ## Experience
 
-#### Thallo - Head of Product (May 2022 - present)
+
+#### Thallo - Token Architect (Dec 2023 - present)
+
+- Full tokenomics design for Thallo token (to be launched 2024), including both carbon market and web3 incentives design.
+
+#### Thallo - Head of Product (March 2023 - Dec 2023)
 
 - Executing go to market strategies, with a focus on developing and scaling sustainable solutions within the carbon credit industry.
 
