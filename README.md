@@ -49,7 +49,7 @@
 
 #### Nottingham (2007-2010)
 
-- 2:1 Business Management and Accounting and Finance BA (Hons)
+- Business Management and Accounting and Finance BA (Hons)
 - Captain of squash team
 
 #### Makers Academy (January 2016 - April 2016)
@@ -63,4 +63,4 @@
 ### Contact
 
 **GitHub:** https://github.com/ScottGledhill<br>
-**Phone number** 07500828859
+**GitHub:**
