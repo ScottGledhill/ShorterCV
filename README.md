@@ -60,4 +60,4 @@
 ### Contact
 
 **GitHub:** https://github.com/ScottGledhill<br>
-
+**Email:** itsscottgledhill@gmail.com
